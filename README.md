@@ -1,2 +1,3 @@
-# designMode
-java design mode，java设计模式
+# 📖 JAVA设计模式
+
+
