@@ -13,7 +13,7 @@
 ## 饿汉模式
 
 
-```
+```java
 /**
  * @author cuishifeng
  * @create 2018-06-06
@@ -42,7 +42,7 @@ public class SingletonHungry {
 ## 懒汉模式
 
 
-```
+```java
 /**
  * @author cuishifeng
  * @create 2018-06-06
