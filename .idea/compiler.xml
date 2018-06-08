@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="builder" />
         <module name="proxy" />
+        <module name="singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="builder" target="1.8" />
       <module name="proxy" target="1.7" />
+      <module name="singleton" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/designMode.iml" filepath="$PROJECT_DIR$/.idea/designMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder/pdf.iml" filepath="$PROJECT_DIR$/builder/pdf.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
 </project>
