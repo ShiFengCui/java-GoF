@@ -8,3 +8,9 @@
 ### 💻 建造者模式
 
 >  [代理模式 https://github.com/ShiFengCui/designMode/tree/master/builder](https://github.com/ShiFengCui/designMode/tree/master/builder)
+
+
+### 🙌 单例模式
+
+>  [单例模式 https://github.com/ShiFengCui/designMode/tree/master/singleton](https://github.com/ShiFengCui/designMode/tree/master/singleton)
+
