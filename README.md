@@ -14,3 +14,5 @@
 
 >  [单例模式 https://github.com/ShiFengCui/designMode/tree/master/singleton](https://github.com/ShiFengCui/designMode/tree/master/singleton)
 
+### ✨ 工厂模式
+>  [单例模式 https://github.com/ShiFengCui/designMode/tree/master/singleton](https://github.com/ShiFengCui/designMode/tree/master/factory)
