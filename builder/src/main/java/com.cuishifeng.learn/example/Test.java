@@ -6,6 +6,7 @@ package com.cuishifeng.learn.example;
 public class Test {
 
     public static void main(String[] args) {
+
         Builder builder = new CarBuilder();
         Director director = new Director(builder);
 
