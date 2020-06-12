@@ -9,7 +9,7 @@ public class Computer {
     /**
      * 建造者模式中的产品构造器一定是私有的
      */
-    private Computer() {
+    public Computer() {
 
     }
 
