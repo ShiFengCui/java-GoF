@@ -95,7 +95,13 @@ public class Food {
 
 一旦完成建造，调用build方法 这个对象就不可变了。
 
-
+### Real world examples
+- java.lang.StringBuilder
+- java.nio.ByteBuffer as well as similar buffers such as FloatBuffer, IntBuffer and so on.
+- java.lang.StringBuffer
+- All implementations of java.lang.Appendable
+- Apache Camel builders
+- Apache Commons Option.Builder
 
 
 
